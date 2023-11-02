@@ -1,2 +1,3 @@
 #!/usr/bin/python3
-import easy_print_101
+file = open('/dev/stdout', 'w')
+file.write("#pythoniscool\n")
